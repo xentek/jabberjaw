@@ -1,0 +1,10 @@
+h1. Jabber Jaw
+
+Jabber Jaw is a Trac plugin for broadcasting changesets and ticket modifications to an XMPP server of your choice.
+
+
+
+
+<small>This plugin was originally developed for the WordPress Foundation for use on their public Trac server.</small>
+
+<small>This plugin is released under the Modified BSD License and may or may not contain code from Trac itself.</small>
